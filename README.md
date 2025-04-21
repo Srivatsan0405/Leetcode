@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Srivatsan0405/Leetcode/tree/master/0001-two-sum) |
+| [0046-permutations](https://github.com/Srivatsan0405/Leetcode/tree/master/0046-permutations) |
 | [0056-merge-intervals](https://github.com/Srivatsan0405/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Srivatsan0405/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Srivatsan0405/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Srivatsan0405/Leetcode/tree/master/0088-merge-sorted-array) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Srivatsan0405/Leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
