@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Srivatsan0405/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Srivatsan0405/Leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Srivatsan0405/Leetcode/tree/master/0326-power-of-three) |
+| [0441-arranging-coins](https://github.com/Srivatsan0405/Leetcode/tree/master/0441-arranging-coins) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Srivatsan0405/Leetcode/tree/master/0268-missing-number) |
+| [0441-arranging-coins](https://github.com/Srivatsan0405/Leetcode/tree/master/0441-arranging-coins) |
 ## Brainteaser
 |  |
 | ------- |
