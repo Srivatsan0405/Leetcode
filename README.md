@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Srivatsan0405/Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Srivatsan0405/Leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Srivatsan0405/Leetcode/tree/master/0233-number-of-digit-one) |
+| [0326-power-of-three](https://github.com/Srivatsan0405/Leetcode/tree/master/0326-power-of-three) |
 ## Array
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Srivatsan0405/Leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Srivatsan0405/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0268-missing-number](https://github.com/Srivatsan0405/Leetcode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/Srivatsan0405/Leetcode/tree/master/0326-power-of-three) |
 ## Dynamic Programming
 |  |
 | ------- |
