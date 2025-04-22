@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Srivatsan0405/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Srivatsan0405/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Srivatsan0405/Leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Srivatsan0405/Leetcode/tree/master/0283-move-zeroes) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Srivatsan0405/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 ## Hash Table
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Srivatsan0405/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/Srivatsan0405/Leetcode/tree/master/0283-move-zeroes) |
 ## Backtracking
 |  |
 | ------- |
