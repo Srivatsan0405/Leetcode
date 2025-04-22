@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Srivatsan0405/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Srivatsan0405/Leetcode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Srivatsan0405/Leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Srivatsan0405/Leetcode/tree/master/0233-number-of-digit-one) |
 ## Array
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Srivatsan0405/Leetcode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Srivatsan0405/Leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Srivatsan0405/Leetcode/tree/master/0233-number-of-digit-one) |
 ## Dynamic Programming
 |  |
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/Srivatsan0405/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Srivatsan0405/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
