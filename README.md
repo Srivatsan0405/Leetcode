@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Srivatsan0405/Leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Srivatsan0405/Leetcode/tree/master/0326-power-of-three) |
 | [0441-arranging-coins](https://github.com/Srivatsan0405/Leetcode/tree/master/0441-arranging-coins) |
+| [3817-maximum-containers-on-a-ship](https://github.com/Srivatsan0405/Leetcode/tree/master/3817-maximum-containers-on-a-ship) |
 ## Dynamic Programming
 |  |
 | ------- |
