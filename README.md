@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0233-number-of-digit-one](https://github.com/Srivatsan0405/Leetcode/tree/master/0233-number-of-digit-one) |
+| [0338-counting-bits](https://github.com/Srivatsan0405/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Srivatsan0405/Leetcode/tree/master/0392-is-subsequence) |
 ## Two Pointers
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Srivatsan0405/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Srivatsan0405/Leetcode/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/Srivatsan0405/Leetcode/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/Srivatsan0405/Leetcode/tree/master/0476-number-complement) |
 ## Binary Search
 |  |
