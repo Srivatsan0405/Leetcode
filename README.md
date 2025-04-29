@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Srivatsan0405/Leetcode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Srivatsan0405/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/Srivatsan0405/Leetcode/tree/master/0046-permutations) |
 | [0056-merge-intervals](https://github.com/Srivatsan0405/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Srivatsan0405/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Srivatsan0405/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Srivatsan0405/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Srivatsan0405/Leetcode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Srivatsan0405/Leetcode/tree/master/0392-is-subsequence) |
