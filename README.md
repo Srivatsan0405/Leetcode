@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Srivatsan0405/Leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Srivatsan0405/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0326-power-of-three](https://github.com/Srivatsan0405/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Srivatsan0405/Leetcode/tree/master/0342-power-of-four) |
 ## Array
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Srivatsan0405/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Srivatsan0405/Leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Srivatsan0405/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Srivatsan0405/Leetcode/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/Srivatsan0405/Leetcode/tree/master/0441-arranging-coins) |
 | [3817-maximum-containers-on-a-ship](https://github.com/Srivatsan0405/Leetcode/tree/master/3817-maximum-containers-on-a-ship) |
 ## Dynamic Programming
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Srivatsan0405/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Srivatsan0405/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Srivatsan0405/Leetcode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/Srivatsan0405/Leetcode/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/Srivatsan0405/Leetcode/tree/master/0476-number-complement) |
 ## Binary Search
 |  |
