@@ -1,15 +1,14 @@
 class Solution:
     def maxNumberOfBalloons(self, text: str) -> int:
-        cnt_dic = Counter(text)
-        cnt = 0
-        while True:
-            for x in 'balloon':
-                cnt_dic[x] -= 1
-                if cnt_dic[x] < 0:
-                    return cnt
-                    
-            cnt += 1
-        return cnt
+        mp = {}
+        mp["b"] = 0
+        mp["a"] = 0
+        mp["l"] = 0
+        mp["o"] = 0
+        mp["n"] = 0
         
-
-        
+        for txt in text:
+            if txt in mp:
+                mp[txt] += 1
+                
+        return min(mp["b"], mp["a"], mp["l"]//2, mp["o"]//2, mp["n"])
