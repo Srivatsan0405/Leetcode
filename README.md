@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Srivatsan0405/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Srivatsan0405/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Srivatsan0405/Leetcode/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Srivatsan0405/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Srivatsan0405/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Srivatsan0405/Leetcode/tree/master/0392-is-subsequence) |
 | [1019-squares-of-a-sorted-array](https://github.com/Srivatsan0405/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Srivatsan0405/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0290-word-pattern](https://github.com/Srivatsan0405/Leetcode/tree/master/0290-word-pattern) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Srivatsan0405/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Srivatsan0405/Leetcode/tree/master/0392-is-subsequence) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Srivatsan0405/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Sliding Window
