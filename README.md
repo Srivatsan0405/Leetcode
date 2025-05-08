@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Srivatsan0405/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Srivatsan0405/Leetcode/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/Srivatsan0405/Leetcode/tree/master/0441-arranging-coins) |
+| [0633-sum-of-square-numbers](https://github.com/Srivatsan0405/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [3817-maximum-containers-on-a-ship](https://github.com/Srivatsan0405/Leetcode/tree/master/3817-maximum-containers-on-a-ship) |
 ## Dynamic Programming
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Srivatsan0405/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Srivatsan0405/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Srivatsan0405/Leetcode/tree/master/0392-is-subsequence) |
+| [0633-sum-of-square-numbers](https://github.com/Srivatsan0405/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1019-squares-of-a-sorted-array](https://github.com/Srivatsan0405/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Srivatsan0405/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Backtracking
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Srivatsan0405/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Srivatsan0405/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0441-arranging-coins](https://github.com/Srivatsan0405/Leetcode/tree/master/0441-arranging-coins) |
+| [0633-sum-of-square-numbers](https://github.com/Srivatsan0405/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Srivatsan0405/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1646-kth-missing-positive-number](https://github.com/Srivatsan0405/Leetcode/tree/master/1646-kth-missing-positive-number) |
 ## Brainteaser
