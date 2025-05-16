@@ -199,4 +199,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Srivatsan0405/Leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Srivatsan0405/Leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
