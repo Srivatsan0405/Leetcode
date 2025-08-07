@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Srivatsan0405/Leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Srivatsan0405/Leetcode/tree/master/0046-permutations) |
 | [0056-merge-intervals](https://github.com/Srivatsan0405/Leetcode/tree/master/0056-merge-intervals) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Srivatsan0405/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Srivatsan0405/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Srivatsan0405/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0189-rotate-array](https://github.com/Srivatsan0405/Leetcode/tree/master/0189-rotate-array) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Srivatsan0405/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0224-basic-calculator](https://github.com/Srivatsan0405/Leetcode/tree/master/0224-basic-calculator) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Srivatsan0405/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Srivatsan0405/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Srivatsan0405/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Srivatsan0405/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 ## Bit Manipulation
 |  |
