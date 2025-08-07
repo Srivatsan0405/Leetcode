@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Srivatsan0405/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/Srivatsan0405/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/Srivatsan0405/Leetcode/tree/master/0070-climbing-stairs) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Srivatsan0405/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0233-number-of-digit-one](https://github.com/Srivatsan0405/Leetcode/tree/master/0233-number-of-digit-one) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Srivatsan0405/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/Srivatsan0405/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/Srivatsan0405/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0065-valid-number](https://github.com/Srivatsan0405/Leetcode/tree/master/0065-valid-number) |
 | [0093-restore-ip-addresses](https://github.com/Srivatsan0405/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0151-reverse-words-in-a-string](https://github.com/Srivatsan0405/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Srivatsan0405/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Srivatsan0405/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0224-basic-calculator](https://github.com/Srivatsan0405/Leetcode/tree/master/0224-basic-calculator) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Srivatsan0405/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
