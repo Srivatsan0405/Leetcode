@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/Srivatsan0405/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2058-concatenation-of-array](https://github.com/Srivatsan0405/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2350-find-closest-number-to-zero](https://github.com/Srivatsan0405/Leetcode/tree/master/2350-find-closest-number-to-zero) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Srivatsan0405/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/Srivatsan0405/Leetcode/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/Srivatsan0405/Leetcode/tree/master/3390-minimum-rectangles-to-cover-points) |
 ## Hash Table
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Srivatsan0405/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Srivatsan0405/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1646-kth-missing-positive-number](https://github.com/Srivatsan0405/Leetcode/tree/master/1646-kth-missing-positive-number) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Srivatsan0405/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Brainteaser
 |  |
 | ------- |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/Srivatsan0405/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1297-maximum-number-of-balloons](https://github.com/Srivatsan0405/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Srivatsan0405/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Srivatsan0405/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Srivatsan0405/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
 |  |
