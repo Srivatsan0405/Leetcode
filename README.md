@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/Srivatsan0405/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/Srivatsan0405/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2058-concatenation-of-array](https://github.com/Srivatsan0405/Leetcode/tree/master/2058-concatenation-of-array) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Srivatsan0405/Leetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2350-find-closest-number-to-zero](https://github.com/Srivatsan0405/Leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Srivatsan0405/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Srivatsan0405/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/Srivatsan0405/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Srivatsan0405/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Srivatsan0405/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Srivatsan0405/Leetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Srivatsan0405/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
 |  |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/Srivatsan0405/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1297-maximum-number-of-balloons](https://github.com/Srivatsan0405/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Srivatsan0405/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Srivatsan0405/Leetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [3379-score-of-a-string](https://github.com/Srivatsan0405/Leetcode/tree/master/3379-score-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Srivatsan0405/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/Srivatsan0405/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1297-maximum-number-of-balloons](https://github.com/Srivatsan0405/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Srivatsan0405/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Srivatsan0405/Leetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Srivatsan0405/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Srivatsan0405/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
