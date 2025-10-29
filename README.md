@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Srivatsan0405/Leetcode/tree/master/0605-can-place-flowers) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Srivatsan0405/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1019-squares-of-a-sorted-array](https://github.com/Srivatsan0405/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Srivatsan0405/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1287-distance-between-bus-stops](https://github.com/Srivatsan0405/Leetcode/tree/master/1287-distance-between-bus-stops) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Srivatsan0405/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Srivatsan0405/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Srivatsan0405/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Srivatsan0405/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Srivatsan0405/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 ## Stack
 |  |
 | ------- |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Srivatsan0405/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Srivatsan0405/Leetcode/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/Srivatsan0405/Leetcode/tree/master/0476-number-complement) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Srivatsan0405/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 ## Binary Search
 |  |
 | ------- |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Srivatsan0405/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1603-running-sum-of-1d-array](https://github.com/Srivatsan0405/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 ## Database
 |  |
@@ -294,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Srivatsan0405/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Srivatsan0405/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 ## Depth-First Search
 |  |
 | ------- |
