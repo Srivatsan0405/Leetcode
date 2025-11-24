@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Srivatsan0405/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Srivatsan0405/Leetcode/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/Srivatsan0405/Leetcode/tree/master/0476-number-complement) |
+| [1009-complement-of-base-10-integer](https://github.com/Srivatsan0405/Leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Srivatsan0405/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 ## Binary Search
 |  |
