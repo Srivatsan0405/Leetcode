@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/Srivatsan0405/Leetcode/tree/master/2418-sort-the-people) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Srivatsan0405/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Srivatsan0405/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2614-prime-in-diagonal](https://github.com/Srivatsan0405/Leetcode/tree/master/2614-prime-in-diagonal) |
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/Srivatsan0405/Leetcode/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/Srivatsan0405/Leetcode/tree/master/3390-minimum-rectangles-to-cover-points) |
 ## Hash Table
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Srivatsan0405/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Srivatsan0405/Leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Srivatsan0405/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2614-prime-in-diagonal](https://github.com/Srivatsan0405/Leetcode/tree/master/2614-prime-in-diagonal) |
 | [3817-maximum-containers-on-a-ship](https://github.com/Srivatsan0405/Leetcode/tree/master/3817-maximum-containers-on-a-ship) |
 ## Dynamic Programming
 |  |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Srivatsan0405/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Srivatsan0405/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2614-prime-in-diagonal](https://github.com/Srivatsan0405/Leetcode/tree/master/2614-prime-in-diagonal) |
 ## String Matching
 |  |
 | ------- |
@@ -337,4 +340,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Srivatsan0405/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Number Theory
+|  |
+| ------- |
+| [2614-prime-in-diagonal](https://github.com/Srivatsan0405/Leetcode/tree/master/2614-prime-in-diagonal) |
 <!---LeetCode Topics End-->
