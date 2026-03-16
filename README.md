@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/Srivatsan0405/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1297-maximum-number-of-balloons](https://github.com/Srivatsan0405/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Srivatsan0405/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Srivatsan0405/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1714-rearrange-spaces-between-words](https://github.com/Srivatsan0405/Leetcode/tree/master/1714-rearrange-spaces-between-words) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Srivatsan0405/Leetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Srivatsan0405/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Srivatsan0405/Leetcode/tree/master/0135-candy) |
 | [0605-can-place-flowers](https://github.com/Srivatsan0405/Leetcode/tree/master/0605-can-place-flowers) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Srivatsan0405/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Srivatsan0405/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/Srivatsan0405/Leetcode/tree/master/3390-minimum-rectangles-to-cover-points) |
 ## Monotonic Stack
 |  |
