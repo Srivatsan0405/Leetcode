@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/Srivatsan0405/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1019-squares-of-a-sorted-array](https://github.com/Srivatsan0405/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Srivatsan0405/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Srivatsan0405/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2418-sort-the-people](https://github.com/Srivatsan0405/Leetcode/tree/master/2418-sort-the-people) |
 | [2887-sort-vowels-in-a-string](https://github.com/Srivatsan0405/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/Srivatsan0405/Leetcode/tree/master/3390-minimum-rectangles-to-cover-points) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/Srivatsan0405/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0633-sum-of-square-numbers](https://github.com/Srivatsan0405/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Srivatsan0405/Leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Srivatsan0405/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Srivatsan0405/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2614-prime-in-diagonal](https://github.com/Srivatsan0405/Leetcode/tree/master/2614-prime-in-diagonal) |
 | [3817-maximum-containers-on-a-ship](https://github.com/Srivatsan0405/Leetcode/tree/master/3817-maximum-containers-on-a-ship) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Srivatsan0405/Leetcode/tree/master/0605-can-place-flowers) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Srivatsan0405/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Srivatsan0405/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Srivatsan0405/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/Srivatsan0405/Leetcode/tree/master/3390-minimum-rectangles-to-cover-points) |
 ## Monotonic Stack
 |  |
