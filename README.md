@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/Srivatsan0405/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Srivatsan0405/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2058-concatenation-of-array](https://github.com/Srivatsan0405/Leetcode/tree/master/2058-concatenation-of-array) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Srivatsan0405/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Srivatsan0405/Leetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Srivatsan0405/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Srivatsan0405/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Srivatsan0405/Leetcode/tree/master/0605-can-place-flowers) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Srivatsan0405/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Srivatsan0405/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Srivatsan0405/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Srivatsan0405/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/Srivatsan0405/Leetcode/tree/master/3390-minimum-rectangles-to-cover-points) |
 ## Monotonic Stack
