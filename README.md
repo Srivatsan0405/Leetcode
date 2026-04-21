@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Srivatsan0405/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Srivatsan0405/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Srivatsan0405/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Srivatsan0405/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1603-running-sum-of-1d-array](https://github.com/Srivatsan0405/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/Srivatsan0405/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Srivatsan0405/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/Srivatsan0405/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1019-squares-of-a-sorted-array](https://github.com/Srivatsan0405/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Srivatsan0405/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Srivatsan0405/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Srivatsan0405/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2418-sort-the-people](https://github.com/Srivatsan0405/Leetcode/tree/master/2418-sort-the-people) |
 | [2887-sort-vowels-in-a-string](https://github.com/Srivatsan0405/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/Srivatsan0405/Leetcode/tree/master/0504-base-7) |
 | [0564-find-the-closest-palindrome](https://github.com/Srivatsan0405/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0633-sum-of-square-numbers](https://github.com/Srivatsan0405/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Srivatsan0405/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Srivatsan0405/Leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Srivatsan0405/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Srivatsan0405/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Srivatsan0405/Leetcode/tree/master/0179-largest-number) |
 | [0605-can-place-flowers](https://github.com/Srivatsan0405/Leetcode/tree/master/0605-can-place-flowers) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Srivatsan0405/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Srivatsan0405/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Srivatsan0405/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Srivatsan0405/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Srivatsan0405/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -313,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Srivatsan0405/Leetcode/tree/master/0292-nim-game) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Srivatsan0405/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Memoization
 |  |
 | ------- |
