@@ -6,6 +6,5 @@ class Solution:
                 s.remove(i)
             else:
                 s.add(i)
-        l=list(s)
-        l.sort()
-        return l
+        
+        return sorted(s)
