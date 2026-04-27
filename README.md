@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/Srivatsan0405/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Srivatsan0405/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Srivatsan0405/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3842-toggle-light-bulbs](https://github.com/Srivatsan0405/Leetcode/tree/master/3842-toggle-light-bulbs) |
 ## Hash Table
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/Srivatsan0405/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Srivatsan0405/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Srivatsan0405/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3842-toggle-light-bulbs](https://github.com/Srivatsan0405/Leetcode/tree/master/3842-toggle-light-bulbs) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Srivatsan0405/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
 |  |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/Srivatsan0405/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/Srivatsan0405/Leetcode/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3536-maximum-product-of-two-digits](https://github.com/Srivatsan0405/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3842-toggle-light-bulbs](https://github.com/Srivatsan0405/Leetcode/tree/master/3842-toggle-light-bulbs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Srivatsan0405/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Srivatsan0405/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3701-compute-alternating-sum](https://github.com/Srivatsan0405/Leetcode/tree/master/3701-compute-alternating-sum) |
+| [3842-toggle-light-bulbs](https://github.com/Srivatsan0405/Leetcode/tree/master/3842-toggle-light-bulbs) |
 ## Prefix Sum
 |  |
 | ------- |
