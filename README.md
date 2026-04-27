@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/Srivatsan0405/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Srivatsan0405/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Srivatsan0405/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Srivatsan0405/Leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3842-toggle-light-bulbs](https://github.com/Srivatsan0405/Leetcode/tree/master/3842-toggle-light-bulbs) |
 ## Hash Table
 |  |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/Srivatsan0405/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/Srivatsan0405/Leetcode/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3536-maximum-product-of-two-digits](https://github.com/Srivatsan0405/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Srivatsan0405/Leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3842-toggle-light-bulbs](https://github.com/Srivatsan0405/Leetcode/tree/master/3842-toggle-light-bulbs) |
 ## Heap (Priority Queue)
 |  |
