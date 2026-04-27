@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Srivatsan0405/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2591-distribute-money-to-maximum-children](https://github.com/Srivatsan0405/Leetcode/tree/master/2591-distribute-money-to-maximum-children) |
 | [2614-prime-in-diagonal](https://github.com/Srivatsan0405/Leetcode/tree/master/2614-prime-in-diagonal) |
+| [3270-find-the-key-of-the-numbers](https://github.com/Srivatsan0405/Leetcode/tree/master/3270-find-the-key-of-the-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Srivatsan0405/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3663-find-the-least-frequent-digit](https://github.com/Srivatsan0405/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Srivatsan0405/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
