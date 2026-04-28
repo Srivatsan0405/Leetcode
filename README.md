@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Srivatsan0405/Leetcode/tree/master/0392-is-subsequence) |
 | [0472-concatenated-words](https://github.com/Srivatsan0405/Leetcode/tree/master/0472-concatenated-words) |
 | [1250-longest-common-subsequence](https://github.com/Srivatsan0405/Leetcode/tree/master/1250-longest-common-subsequence) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Srivatsan0405/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Srivatsan0405/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Two Pointers
 |  |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Srivatsan0405/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0472-concatenated-words](https://github.com/Srivatsan0405/Leetcode/tree/master/0472-concatenated-words) |
 | [0690-employee-importance](https://github.com/Srivatsan0405/Leetcode/tree/master/0690-employee-importance) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Srivatsan0405/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Trie
 |  |
 | ------- |
@@ -427,10 +429,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Srivatsan0405/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0690-employee-importance](https://github.com/Srivatsan0405/Leetcode/tree/master/0690-employee-importance) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Srivatsan0405/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Srivatsan0405/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Srivatsan0405/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Number Theory
 |  |
 | ------- |
@@ -464,4 +468,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0690-employee-importance](https://github.com/Srivatsan0405/Leetcode/tree/master/0690-employee-importance) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Srivatsan0405/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 <!---LeetCode Topics End-->
