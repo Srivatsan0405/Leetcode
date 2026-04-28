@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Srivatsan0405/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/Srivatsan0405/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Srivatsan0405/Leetcode/tree/master/0179-largest-number) |
+| [0214-shortest-palindrome](https://github.com/Srivatsan0405/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/Srivatsan0405/Leetcode/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/Srivatsan0405/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0290-word-pattern](https://github.com/Srivatsan0405/Leetcode/tree/master/0290-word-pattern) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Srivatsan0405/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/Srivatsan0405/Leetcode/tree/master/0214-shortest-palindrome) |
 ## Tree
 |  |
 | ------- |
@@ -448,5 +450,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Srivatsan0405/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Srivatsan0405/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Srivatsan0405/Leetcode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
