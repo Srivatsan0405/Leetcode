@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/Srivatsan0405/Leetcode/tree/master/0472-concatenated-words) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Srivatsan0405/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/Srivatsan0405/Leetcode/tree/master/0605-can-place-flowers) |
+| [0690-employee-importance](https://github.com/Srivatsan0405/Leetcode/tree/master/0690-employee-importance) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Srivatsan0405/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0819-most-common-word](https://github.com/Srivatsan0405/Leetcode/tree/master/0819-most-common-word) |
 | [1019-squares-of-a-sorted-array](https://github.com/Srivatsan0405/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Srivatsan0405/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Srivatsan0405/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Srivatsan0405/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0690-employee-importance](https://github.com/Srivatsan0405/Leetcode/tree/master/0690-employee-importance) |
 | [0819-most-common-word](https://github.com/Srivatsan0405/Leetcode/tree/master/0819-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Srivatsan0405/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1297-maximum-number-of-balloons](https://github.com/Srivatsan0405/Leetcode/tree/master/1297-maximum-number-of-balloons) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Srivatsan0405/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0472-concatenated-words](https://github.com/Srivatsan0405/Leetcode/tree/master/0472-concatenated-words) |
+| [0690-employee-importance](https://github.com/Srivatsan0405/Leetcode/tree/master/0690-employee-importance) |
 ## Trie
 |  |
 | ------- |
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Srivatsan0405/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0690-employee-importance](https://github.com/Srivatsan0405/Leetcode/tree/master/0690-employee-importance) |
 ## Binary Tree
 |  |
 | ------- |
@@ -456,4 +460,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Srivatsan0405/Leetcode/tree/master/0214-shortest-palindrome) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0690-employee-importance](https://github.com/Srivatsan0405/Leetcode/tree/master/0690-employee-importance) |
 <!---LeetCode Topics End-->
