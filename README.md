@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Srivatsan0405/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Srivatsan0405/Leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Srivatsan0405/Leetcode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Srivatsan0405/Leetcode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/Srivatsan0405/Leetcode/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Srivatsan0405/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Srivatsan0405/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Srivatsan0405/Leetcode/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/Srivatsan0405/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Srivatsan0405/Leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Srivatsan0405/Leetcode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Srivatsan0405/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Srivatsan0405/Leetcode/tree/master/0048-rotate-image) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Srivatsan0405/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Srivatsan0405/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2614-prime-in-diagonal](https://github.com/Srivatsan0405/Leetcode/tree/master/2614-prime-in-diagonal) |
