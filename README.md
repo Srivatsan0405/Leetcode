@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/Srivatsan0405/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/Srivatsan0405/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Srivatsan0405/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1861-rotating-the-box](https://github.com/Srivatsan0405/Leetcode/tree/master/1861-rotating-the-box) |
 | [1980-find-unique-binary-string](https://github.com/Srivatsan0405/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2058-concatenation-of-array](https://github.com/Srivatsan0405/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Srivatsan0405/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Srivatsan0405/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1019-squares-of-a-sorted-array](https://github.com/Srivatsan0405/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Srivatsan0405/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1861-rotating-the-box](https://github.com/Srivatsan0405/Leetcode/tree/master/1861-rotating-the-box) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Srivatsan0405/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Backtracking
 |  |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Srivatsan0405/Leetcode/tree/master/0048-rotate-image) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Srivatsan0405/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Srivatsan0405/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1861-rotating-the-box](https://github.com/Srivatsan0405/Leetcode/tree/master/1861-rotating-the-box) |
 | [2614-prime-in-diagonal](https://github.com/Srivatsan0405/Leetcode/tree/master/2614-prime-in-diagonal) |
 ## String Matching
 |  |
