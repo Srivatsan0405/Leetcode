@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/Srivatsan0405/Leetcode/tree/master/2418-sort-the-people) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Srivatsan0405/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Srivatsan0405/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Srivatsan0405/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Srivatsan0405/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2614-prime-in-diagonal](https://github.com/Srivatsan0405/Leetcode/tree/master/2614-prime-in-diagonal) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Srivatsan0405/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Srivatsan0405/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Srivatsan0405/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Srivatsan0405/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Srivatsan0405/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Srivatsan0405/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3701-compute-alternating-sum](https://github.com/Srivatsan0405/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3842-toggle-light-bulbs](https://github.com/Srivatsan0405/Leetcode/tree/master/3842-toggle-light-bulbs) |
