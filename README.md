@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/Srivatsan0405/Leetcode/tree/master/0472-concatenated-words) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Srivatsan0405/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/Srivatsan0405/Leetcode/tree/master/0605-can-place-flowers) |
+| [0665-non-decreasing-array](https://github.com/Srivatsan0405/Leetcode/tree/master/0665-non-decreasing-array) |
 | [0690-employee-importance](https://github.com/Srivatsan0405/Leetcode/tree/master/0690-employee-importance) |
 | [0704-binary-search](https://github.com/Srivatsan0405/Leetcode/tree/master/0704-binary-search) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Srivatsan0405/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
