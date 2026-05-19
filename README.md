@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/Srivatsan0405/Leetcode/tree/master/2418-sort-the-people) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Srivatsan0405/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Srivatsan0405/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2540-minimum-common-value](https://github.com/Srivatsan0405/Leetcode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Srivatsan0405/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Srivatsan0405/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2614-prime-in-diagonal](https://github.com/Srivatsan0405/Leetcode/tree/master/2614-prime-in-diagonal) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Srivatsan0405/Leetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2418-sort-the-people](https://github.com/Srivatsan0405/Leetcode/tree/master/2418-sort-the-people) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Srivatsan0405/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2540-minimum-common-value](https://github.com/Srivatsan0405/Leetcode/tree/master/2540-minimum-common-value) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Srivatsan0405/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2784-check-if-array-is-good](https://github.com/Srivatsan0405/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3663-find-the-least-frequent-digit](https://github.com/Srivatsan0405/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Srivatsan0405/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1861-rotating-the-box](https://github.com/Srivatsan0405/Leetcode/tree/master/1861-rotating-the-box) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Srivatsan0405/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2540-minimum-common-value](https://github.com/Srivatsan0405/Leetcode/tree/master/2540-minimum-common-value) |
 ## Backtracking
 |  |
 | ------- |
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Srivatsan0405/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Srivatsan0405/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/Srivatsan0405/Leetcode/tree/master/1646-kth-missing-positive-number) |
+| [2540-minimum-common-value](https://github.com/Srivatsan0405/Leetcode/tree/master/2540-minimum-common-value) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Srivatsan0405/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Brainteaser
 |  |
