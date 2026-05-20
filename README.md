@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/Srivatsan0405/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Srivatsan0405/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2614-prime-in-diagonal](https://github.com/Srivatsan0405/Leetcode/tree/master/2614-prime-in-diagonal) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Srivatsan0405/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Srivatsan0405/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2784-check-if-array-is-good](https://github.com/Srivatsan0405/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/Srivatsan0405/Leetcode/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/Srivatsan0405/Leetcode/tree/master/2418-sort-the-people) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Srivatsan0405/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2540-minimum-common-value](https://github.com/Srivatsan0405/Leetcode/tree/master/2540-minimum-common-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Srivatsan0405/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Srivatsan0405/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2784-check-if-array-is-good](https://github.com/Srivatsan0405/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3663-find-the-least-frequent-digit](https://github.com/Srivatsan0405/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/Srivatsan0405/Leetcode/tree/master/0476-number-complement) |
 | [1009-complement-of-base-10-integer](https://github.com/Srivatsan0405/Leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Srivatsan0405/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Srivatsan0405/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
