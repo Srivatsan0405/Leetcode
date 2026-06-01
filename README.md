@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Srivatsan0405/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Srivatsan0405/Leetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Srivatsan0405/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Srivatsan0405/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Srivatsan0405/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2350-find-closest-number-to-zero](https://github.com/Srivatsan0405/Leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [2418-sort-the-people](https://github.com/Srivatsan0405/Leetcode/tree/master/2418-sort-the-people) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Srivatsan0405/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Srivatsan0405/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Srivatsan0405/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Srivatsan0405/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Srivatsan0405/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2418-sort-the-people](https://github.com/Srivatsan0405/Leetcode/tree/master/2418-sort-the-people) |
 | [2784-check-if-array-is-good](https://github.com/Srivatsan0405/Leetcode/tree/master/2784-check-if-array-is-good) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Srivatsan0405/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Srivatsan0405/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Srivatsan0405/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Srivatsan0405/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Srivatsan0405/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2591-distribute-money-to-maximum-children](https://github.com/Srivatsan0405/Leetcode/tree/master/2591-distribute-money-to-maximum-children) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/Srivatsan0405/Leetcode/tree/master/3390-minimum-rectangles-to-cover-points) |
