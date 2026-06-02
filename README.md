@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/Srivatsan0405/Leetcode/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Srivatsan0405/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/Srivatsan0405/Leetcode/tree/master/3390-minimum-rectangles-to-cover-points) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Srivatsan0405/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3663-find-the-least-frequent-digit](https://github.com/Srivatsan0405/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3701-compute-alternating-sum](https://github.com/Srivatsan0405/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Srivatsan0405/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/Srivatsan0405/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/Srivatsan0405/Leetcode/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3536-maximum-product-of-two-digits](https://github.com/Srivatsan0405/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Srivatsan0405/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Srivatsan0405/Leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3842-toggle-light-bulbs](https://github.com/Srivatsan0405/Leetcode/tree/master/3842-toggle-light-bulbs) |
 ## Heap (Priority Queue)
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/Srivatsan0405/Leetcode/tree/master/1861-rotating-the-box) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Srivatsan0405/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/Srivatsan0405/Leetcode/tree/master/2540-minimum-common-value) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Srivatsan0405/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Srivatsan0405/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2591-distribute-money-to-maximum-children](https://github.com/Srivatsan0405/Leetcode/tree/master/2591-distribute-money-to-maximum-children) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/Srivatsan0405/Leetcode/tree/master/3390-minimum-rectangles-to-cover-points) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Srivatsan0405/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -387,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/Srivatsan0405/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2540-minimum-common-value](https://github.com/Srivatsan0405/Leetcode/tree/master/2540-minimum-common-value) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Srivatsan0405/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Srivatsan0405/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Brainteaser
 |  |
 | ------- |
