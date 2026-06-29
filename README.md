@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/Srivatsan0405/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0633-sum-of-square-numbers](https://github.com/Srivatsan0405/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0650-2-keys-keyboard](https://github.com/Srivatsan0405/Leetcode/tree/master/0650-2-keys-keyboard) |
+| [1518-water-bottles](https://github.com/Srivatsan0405/Leetcode/tree/master/1518-water-bottles) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Srivatsan0405/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Srivatsan0405/Leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Srivatsan0405/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1518-water-bottles](https://github.com/Srivatsan0405/Leetcode/tree/master/1518-water-bottles) |
 | [2058-concatenation-of-array](https://github.com/Srivatsan0405/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Srivatsan0405/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Srivatsan0405/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
