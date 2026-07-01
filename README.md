@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Srivatsan0405/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1603-running-sum-of-1d-array](https://github.com/Srivatsan0405/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/Srivatsan0405/Leetcode/tree/master/1646-kth-missing-positive-number) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Srivatsan0405/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Srivatsan0405/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1861-rotating-the-box](https://github.com/Srivatsan0405/Leetcode/tree/master/1861-rotating-the-box) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Srivatsan0405/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/Srivatsan0405/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1297-maximum-number-of-balloons](https://github.com/Srivatsan0405/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Srivatsan0405/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Srivatsan0405/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Srivatsan0405/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1714-rearrange-spaces-between-words](https://github.com/Srivatsan0405/Leetcode/tree/master/1714-rearrange-spaces-between-words) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Srivatsan0405/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
