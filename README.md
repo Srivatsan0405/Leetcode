@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Srivatsan0405/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0690-employee-importance](https://github.com/Srivatsan0405/Leetcode/tree/master/0690-employee-importance) |
 | [0819-most-common-word](https://github.com/Srivatsan0405/Leetcode/tree/master/0819-most-common-word) |
+| [0854-k-similar-strings](https://github.com/Srivatsan0405/Leetcode/tree/master/0854-k-similar-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Srivatsan0405/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1297-maximum-number-of-balloons](https://github.com/Srivatsan0405/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Srivatsan0405/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/Srivatsan0405/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Srivatsan0405/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0819-most-common-word](https://github.com/Srivatsan0405/Leetcode/tree/master/0819-most-common-word) |
+| [0854-k-similar-strings](https://github.com/Srivatsan0405/Leetcode/tree/master/0854-k-similar-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Srivatsan0405/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1205-defanging-an-ip-address](https://github.com/Srivatsan0405/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1250-longest-common-subsequence](https://github.com/Srivatsan0405/Leetcode/tree/master/1250-longest-common-subsequence) |
@@ -525,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0690-employee-importance](https://github.com/Srivatsan0405/Leetcode/tree/master/0690-employee-importance) |
+| [0854-k-similar-strings](https://github.com/Srivatsan0405/Leetcode/tree/master/0854-k-similar-strings) |
 ## Binary Search Tree
 |  |
 | ------- |
