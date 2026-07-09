@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Srivatsan0405/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Srivatsan0405/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Srivatsan0405/Leetcode/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/Srivatsan0405/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0349-intersection-of-two-arrays](https://github.com/Srivatsan0405/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Srivatsan0405/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Srivatsan0405/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Srivatsan0405/Leetcode/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/Srivatsan0405/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0290-word-pattern](https://github.com/Srivatsan0405/Leetcode/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/Srivatsan0405/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Srivatsan0405/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Srivatsan0405/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Srivatsan0405/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/Srivatsan0405/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/Srivatsan0405/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Srivatsan0405/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0819-most-common-word](https://github.com/Srivatsan0405/Leetcode/tree/master/0819-most-common-word) |
